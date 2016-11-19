@@ -49,8 +49,7 @@ li a {
 }
 /*these are the classes for the divisions on our website*/
 #size {
-    width: 300px;
-    height: 400px;
+    width: 100%;
 }
 #1size {
     max-width:100%;
