@@ -13,9 +13,7 @@ ul {
 }
 li {
     float: left;
-    border-right: 11.3px solid white;
-    padding-left: 180px;
-    padding-right: 180px;
+    border-right: 2px solid white;
 }
 li a {
     display: block;
@@ -26,7 +24,7 @@ li a {
 }
 /*these are the styles for the list items on the webpages*/
 .nav {
-    background-color: green;
+    /*background-color: green;*/
     width:100%;
 }
 .left {
