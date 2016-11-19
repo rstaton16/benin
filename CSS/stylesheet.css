@@ -1,0 +1,60 @@
+body {
+    background-color: white; 
+/* this is the start of the color scheme for the webpages*/
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+}
+li {
+    float: left;
+    border-right: 11.3px solid white;
+    padding-left: 180px;
+    padding-right: 180px;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/*these are the styles for the list items on the webpages*/
+.nav {
+    background-color: green;
+    width:100%;
+}
+.left {
+    text-align: center;
+    background-color: Red;
+    float:left;
+    width: 25%;
+    height: 800px;
+}
+.right {
+    background-color: yellow;
+    float:right;
+    width: 75%;
+    height:800px;
+}
+.bottom {
+    background-color: black;
+    text-align: center;
+    color:white;
+    clear:both;
+    width:100%;
+}
+/*these are the classes for the divisions on our website*/
+#size {
+    width: 300px;
+    height: 400px;
+}
+#1size {
+    max-width:100%;
+    max-height:100%;
+}
+/*the following picture needs a lot more work in terms of sizing amd 
+/*these are the ID tags for the images within our webpages*/
