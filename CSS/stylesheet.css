@@ -1,5 +1,6 @@
 body {
     background-color: white; 
+    font-family: 'Montserrat', sans-serif;
 /* this is the start of the color scheme for the webpages*/
 }
 ul {
@@ -56,5 +57,5 @@ li a {
     max-width:100%;
     max-height:100%;
 }
-/*the following picture needs a lot more work in terms of sizing amd 
+/*the following picture needs a lot more work in terms of sizing and */
 /*these are the ID tags for the images within our webpages*/
