@@ -9,6 +9,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: green;
+    font-family: 'Montserrat', sans-serif;
 }
 li {
     float: left;
